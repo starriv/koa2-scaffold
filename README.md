@@ -62,7 +62,6 @@ cp nginx.conf /etc/nginx/conf.d/YourProject.conf # 自行配置 nginx 反代
 │   ├── development.js
 │   └── production.js
 ├── database
-├── lib
 ├── log
 ├── nginx.conf
 ├── package.json
@@ -78,6 +77,7 @@ cp nginx.conf /etc/nginx/conf.d/YourProject.conf # 自行配置 nginx 反代
 │   │   └── index.js
 │   ├── controllers
 │   │   └── index.js
+│   ├── lib
 │   ├── middlewares
 │   ├── models
 │   ├── routes
