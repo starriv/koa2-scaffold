@@ -1,0 +1,17 @@
+{
+    "apps": [
+        {
+            "name": "koa2-scaffold",
+            "script": "bin/production.js",
+            "exec_mode": "cluster",
+            "instances": 0,
+            "max_memory_restart": "1G",
+            "autorestart": true,
+            "node_args": [],
+            "args": [],
+            "env": {
+                "NODE_ENV": "production"
+            }
+        }
+    ]
+}
