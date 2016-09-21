@@ -1,5 +1,5 @@
 # koa2-startkit
-
+[![Build Status](https://travis-ci.org/starriv/koa2-scaffold.svg?branch=master)](https://travis-ci.org/starriv/koa2-scaffold)
 一个 基于Koa2 制作的的WEB 基本框架
 
 使用了最新的 `latest plugin` + `stage 0`可以直接在项目里使用 ES6/7（Generator Function, Class, Async & Await）以及提案中的特性，借助 Babel 编译
